@@ -1,2 +1,2 @@
 # open-product
-Open Product Ideas Repo
+Open Product Frameworks Repo
