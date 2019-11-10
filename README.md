@@ -1,2 +1,2 @@
 # open-product
-Open Product Frameworks Repo
+Product Management Frameworks Repo
